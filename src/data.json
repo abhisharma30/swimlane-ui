@@ -1,0 +1,12 @@
+{
+  "blocks": [
+    { "id": 1, "name": "Block 1", "stage": "To Do", "history": [] },
+    { "id": 2, "name": "Block 2", "stage": "To Do", "history": [] },
+    { "id": 3, "name": "Block 3", "stage": "To Do", "history": [] },
+    { "id": 4, "name": "Block 4", "stage": "In Progress", "history": [] },
+    { "id": 5, "name": "Block 5", "stage": "In Progress", "history": [] },
+    { "id": 6, "name": "Block 6", "stage": "Blocked", "history": [] },
+    { "id": 7, "name": "Block 7", "stage": "Done", "history": [] }
+  ],
+  "stages": ["To Do", "In Progress", "Blocked", "Done"]
+}

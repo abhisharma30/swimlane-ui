@@ -1,0 +1,15 @@
+.swimlane {
+  flex: 1;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin: 0 10px;
+  min-height: 250px;
+  background-color: #f8f9fa;
+  color: #1272b8;
+}
+
+.block {
+  border: 1px solid;
+  border-radius: 4px;
+  cursor: pointer;
+}

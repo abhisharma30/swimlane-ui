@@ -1,0 +1,27 @@
+.block-details {
+  background: white;
+  border-top: 1px solid #ccc;
+  padding: 20px;
+  margin: auto;
+  margin-top: 30px;
+  width: 50%;
+  box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.1);
+
+  h5 {
+    color: #1272b8
+  }
+
+  .badge-primary {
+    color: #fff;
+    background-color: #3597ff;
+  }
+
+  .badge {
+    display: inline-block;
+    padding: .25em .4em;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25rem;
+  }
+}
